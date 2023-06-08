@@ -1,0 +1,560 @@
+/*Header*/
+.aboutusMain {
+    margin-top: 164px;
+    height: 100px;
+    width: 1425px;
+    margin-bottom: 227px;
+}
+
+.contact-info {
+    margin-top: -105px;
+}
+
+.aboutusMain img {
+    height: 130px;
+    width: 130px;
+    margin-left: -1097px;
+    margin-top: -183px;
+    margin-bottom: 71px;
+}
+
+.aboutusMain h3 {
+    margin-top: -155px;
+    margin-left: -825px;
+    color: #3a98ff;
+}
+
+.aboutusMain .address {
+    margin-top: -68px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.aboutusMain .address p {
+    margin-top: 5px;
+    margin-left: 222px;
+}
+
+.aboutusMain .address h6 {
+    margin-left: 41px;
+    margin-top: -14px;
+}
+
+.aboutusMain .contact-info .internet-icon {
+    width: 35px;
+    height: 35px;
+    margin-left: -72px;
+    margin-top: -95px;
+    margin-bottom: 24px;
+}
+
+.aboutusMain .contact-info .phone-icon {
+    width: 26px;
+    height: 38px;
+    margin-left: 981px;
+    margin-bottom: 30px;
+    margin-top: -54px;
+}
+
+.aboutusMain .contact-info .email-icon {
+    width: 27px;
+    height: 31px;
+    margin-left: 1046px;
+    margin-top: -287px;
+    margin-bottom: 50px;
+}
+
+.aboutusMain .contact-info .phonenumber {
+    margin-left: 1199px;
+    margin-top: -113px;
+    margin-bottom: 27px;
+    font-weight: bold;
+}
+
+.phonenumber {
+    margin-top: 10px;
+}
+
+.aboutusMain .contact-info .emailid {
+    margin-left: 1209px;
+    margin-top: -25px;
+}
+
+.aboutusMain .contact-info hr {
+    margin-left: 1258px;
+    margin-top: -16px;
+    width: 117px;
+}
+
+
+/*Navbar*/
+.container2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background: #3B8BBD;
+    padding: 1px;
+    width: 1438px;
+    height: 82px;
+    margin-top: -390px;
+}
+
+.container2 a {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin-left: 48px;
+    margin-right: 20px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+
+.container2 a:hover {
+    color: black;
+}
+
+.takeOffImage {
+    width: 1440px;
+}
+
+/*Form*/
+
+.form {
+    max-width: 450px;
+    background: white;
+    padding: 30px;
+    margin: 46px auto;
+    border-radius: 10px;
+    margin-bottom: 200px;
+    margin-top: 80px;
+}
+
+.form ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.form ul li {
+    margin-left: 143px;
+    display: block;
+    margin-bottom: 10px;
+    min-height: 54px;
+}
+
+.form ul li .field-style {
+    box-sizing: border-box;
+    margin-left: -450px;
+    padding: 8px;
+    outline: none;
+    border: 1px solid #CDCDCD;
+    border-radius: 15px;
+}
+
+.form ul li .field-style1 {
+    box-sizing: border-box;
+    margin-left: -465px;
+    padding: 8px;
+    outline: none;
+    border: 1px solid #CDCDCD;
+    border-radius: 15px;
+}
+
+.form ul li .field-style2 {
+    box-sizing: border-box;
+    margin-left: -465px;
+    padding: 8px;
+    outline: none;
+    border: 1px solid #CDCDCD;
+    border-radius: 15px;
+}
+
+.form ul li .field-style:focus {
+    box-shadow: 0 0 5px #CDCDCD;
+    border: 1px solid #CDCDCD;
+}
+
+.form ul li .field-split {
+    width: 100%;
+}
+
+.form ul li .field-full {
+    width: 100%;
+}
+
+.form ul li input.align-left {
+    width: 550px;
+    margin-left: -665px;
+}
+
+.form ul li input.align-right {
+    float: right;
+    width: 500px;
+    margin-right: -357px;
+}
+
+.form ul li textarea {
+    width: 1114px;
+    height: 177px;
+}
+
+.form-button {
+    background-color: #3D93ED;
+    color: white;
+    border-radius: 10px;
+    height: 50px;
+    width: 150px;
+}
+
+/*Footer*/
+
+a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #031743;
+}
+
+.container p,
+a {
+    font-size: 14px;
+    margin: 1px 0;
+}
+
+.footer-logo {
+    font-size: 20px;
+    margin-bottom: 57px;
+    color: white;
+    font-weight: bold;
+    margin-left: -1030px;
+}
+
+.footer-texts h3 {
+    color: white;
+    text-align: left;
+    font-size: 25px;
+    margin-left: 180px;
+    margin-top: -122px;
+}
+
+.footer-texts p {
+    color: white;
+    margin-bottom: 50px;
+    text-align: left;
+    margin-left: 180px;
+
+}
+
+.footer-text p {
+    margin-bottom: 14px;
+    font-size: 14px;
+    color: white;
+    line-height: 27px;
+    margin-left: 163px;
+    text-align: left;
+}
+
+.heading1 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    margin-left: 251px;
+    margin-top: -157px;
+}
+
+.heading2 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    margin-left: 19px;
+    margin-top: -157px;
+}
+
+.heading3 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    margin-left: -277px;
+    margin-top: -157px;
+}
+
+.footer-widget ul li {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 12px;
+}
+
+.subscribe-form {
+    height: 50px;
+    width: 550px;
+    margin-top: -84px;
+    margin-left: 583px;
+}
+
+.subscribe-form input {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #2E2E2E;
+    color: #fff;
+    border-radius: 10px;
+    margin-top: -15px;
+}
+
+.subscribe-form button {
+    padding: 5px 5px;
+    margin-top: -34px;
+    margin-left: 527px;
+}
+
+.subscribe-form button i {
+    color: #fff;
+    font-size: 22px;
+    transform: rotate(-6deg);
+}
+
+.copyright-text p {
+    margin-left: -886px;
+    margin-top: 60px;
+    margin-bottom: -17px;
+    margin: 0;
+    font-size: 14px;
+    color: white;
+}
+
+.footer-menu li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.footer-menu li a {
+    font-size: 14px;
+    color: white
+}
+
+
+.countries {
+    display: flex;
+    margin: 0px;
+    margin-top: -52px;
+    margin-left: 317px;
+}
+
+.countrie {
+    text-align: left;
+    margin-left: 260px;
+}
+
+.countrie p {
+    color: white;
+}
+
+.quick {
+    text-align: left;
+    margin-left: 87px;
+}
+
+.quick a {
+    color: 'white';
+}
+
+.container5 {
+    color: black;
+}
+
+.contact1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    text-align: left;
+    margin-right: 44px;
+}
+
+.contact2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    text-align: left;
+    margin-right: 44px;
+
+}
+
+.contact3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-bottom: 10px;
+    color: white;
+    text-align: left;
+    margin-right: 44px;
+
+}
+
+.footer-section::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #031743CC;
+    opacity: 2;
+    z-index: -1;
+}
+
+.footer-section {
+    position: relative;
+    filter: blur(0.2px);
+}
+
+.footer-social {
+    margin-left: -952px;
+    margin-top: -93px;
+    margin-bottom: 50px;
+}
+
+
+.facebook {
+    margin-left: -99px;
+    margin-top: 196px;
+    margin-bottom: -23px;
+    padding: 10px;
+    z-index: 1;
+    position: absolute;
+}
+
+.facebooklogo {
+    margin-left: -960px;
+    margin-top: -129px;
+    margin-bottom: -194px;
+    z-index: -1;
+    position: relative;
+}
+
+.twitter {
+    margin-top: 198px;
+    margin-bottom: -300px;
+    padding: 10px;
+    z-index: 1;
+    position: absolute;
+    margin-left: -53px;
+}
+
+.twitterlogo {
+    margin-bottom: -194px;
+    z-index: -1;
+    position: relative;
+}
+
+.google {
+    margin-top: 199px;
+    margin-bottom: -300px;
+    padding: 10px;
+    z-index: 1;
+    position: absolute;
+    margin-left: -5px;
+}
+
+.googlelogo {
+    margin-bottom: -194px;
+    z-index: -1;
+    position: relative;
+}
+
+.linkedin {
+    margin-top: 194px;
+    margin-bottom: -300px;
+    padding: 10px;
+    z-index: 1;
+    position: absolute;
+    margin-left: 48px;
+}
+
+.linkedinlogo {
+    margin-bottom: -194px;
+    z-index: -1;
+    position: relative;
+}
+
+.copyright-text {
+    margin-left: -893px;
+    margin-top: -10px;
+    margin-bottom: 0px;
+}
+
+.copyright {
+    margin-top: -10px;
+}
+
+.footer-menu {
+    margin-left: 850px;
+    margin-top: -36px;
+}
+
+.line {
+    margin-top: -75px;
+    margin-bottom: 125px;
+}
+
+.internet {
+    height: 30px;
+    width: 30px;
+    margin-left: 700px;
+    margin-top: -253px;
+    margin-bottom: 309px;
+}
+
+.email {
+    height: 23px;
+    width: 30px;
+    margin-left: 700px;
+    margin-top: -288px;
+    margin-bottom: 300px;
+}
+
+.clock {
+    height: 30px;
+    width: 30px;
+    margin-left: 700px;
+    margin-top: -279px;
+    margin-bottom: 300px;
+}
+
+.arrow {
+    height: 10px;
+    margin-left: -15px;
+    width: 10px;
+    margin-right: 10px;
+}
+
+.footer-section {
+    background-image: url(../images/AboutusImages/landing.jpeg);
+    height: 720px;
+    width: 1440px;
+}
+
+.footercard {
+    width: 80%;
+    height: 150px;
+    margin-left: -50px;
+}
+
+.emailbutton {
+    width: 68px;
+    height: 47px;
+    margin-left: 821px;
+    margin-top: -65px;
+    margin-bottom: 31px;
+}
+
+.button {
+    margin-left: 835px;
+    margin-right: 8px;
+    margin-top: -79px;
+    margin-bottom: 55px;
+}
