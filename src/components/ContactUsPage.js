@@ -1,5 +1,5 @@
 import React,{ useRef } from 'react';
-import emailjs from '@emailjs/browser'; 
+import emailjs  from '@emailjs/browser'; 
 import headerImage from '../images/AboutusImages/header.png';
 import internetIcon from '../images/AboutusImages/internet.png';
 import mobileIcon from '../images/AboutusImages/mobile.png';

@@ -1,5 +1,5 @@
 import React from 'react';
-import headerImage from '../images/AboutusImages/header.png';
+import headerImage  from '../images/AboutusImages/header.png';
 import internetIcon from '../images/AboutusImages/internet.png';
 import mobileIcon from '../images/AboutusImages/mobile.png';
 import emailIcon from '../images/AboutusImages/email.png';
